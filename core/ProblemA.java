@@ -4,6 +4,10 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+/**
+ * Link to the problem: https://open.kattis.com/problems/addingwords
+ */
+
 public class ProblemA {
     private final static String UNKNOWN = "unknown";
     private final static String OP_MINUS = "-";
